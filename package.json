@@ -1,6 +1,6 @@
 {
    "name": "@appruut/sun",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Pronounced as 'SERRNN' - SQL, Express Js, React Js, React Native and Node Js Presets. (TypeORM, TypeScript)",
    "main": "config.json",
    "keywords": [
