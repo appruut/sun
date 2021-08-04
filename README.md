@@ -1,29 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-'**Contents**'
-
-- [Appruut Sun - "SEERN" Present for Node.js](#appruut-sun---seern-present-for-nodejs)
-  - [Appveyor](#appveyor)
-  - [Circleci](#circleci)
-  - [Contributor's List](#contributors-list)
-  - [Editor Config File](#editor-config-file)
-  - [Application Linting with eslint](#application-linting-with-eslint)
-  - [GitHub templates](#github-templates)
-  - [GitHub Actions](#github-actions)
-  - [Application git check .gitignore](#application-git-check-gitignore)
-  - [GitHub Labels](#github-labels)
-  - [Application Licensing](#application-licensing)
-  - [Package release management](#package-release-management)
-  - [Package.json](#packagejson)
-  - [Package security](#package-security)
-  - [Prettier config](#prettier-config)
-  - [Probots](#probots)
-  - [Readme file](#readme-file)
-  - [TOC](#toc)
-  - [Validate Commits](#validate-commits)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 <div align="center">
 <h2>Appruut Sun - "SEERN" Present for Node.js</h2>
 <p>
@@ -36,6 +10,34 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="Javascript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />&nbsp;&nbsp;
 </p>
+
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+'**Contents**'
+
+- [Appveyor](#appveyor)
+- [Circleci](#circleci)
+- [Contributor's List](#contributors-list)
+- [Editor Config File](#editor-config-file)
+- [Application Linting with eslint](#application-linting-with-eslint)
+- [GitHub templates](#github-templates)
+- [GitHub Actions](#github-actions)
+- [Application git check .gitignore](#application-git-check-gitignore)
+- [GitHub Labels](#github-labels)
+- [Application Licensing](#application-licensing)
+- [Package release management](#package-release-management)
+- [Package.json](#packagejson)
+- [Package security](#package-security)
+- [Prettier config](#prettier-config)
+- [Probots](#probots)
+- [Readme file](#readme-file)
+- [TOC](#toc)
+- [Validate Commits](#validate-commits)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 <!-- TASKS START -->
 <!-- DO NOT MODIFY MANUALLY. INSTEAD RUN `npm run docs` TO REGENERATE IT -->
 
