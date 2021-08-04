@@ -79,14 +79,55 @@ const license = {
 };
 
 /**
- * The project output directory
+ * The react web application type
+ *
+ *
+ *@type {Object}
+ */
+const webAppType = {
+  type: "list",
+  choices: ["React Js", "Next Js"],
+  message: "Select your react web application type:",
+  name: "webAppType",
+};
+
+
+/**
+ * The react web app
+ *
+ *
+ *@type {Object}
+ */
+ const outDir = {
+  type: "input",
+  message: "The name for your react web app (web):",
+  name: "ReactWebApp",
+};
+
+
+
+/**
+ * The project react native app
+ *
+ *
+ *@type {Object}
+ */
+ const outDir = {
+  type: "input",
+  message: "The name for your react native app (app):",
+  name: "ReactNativeApp",
+};
+
+
+/**
+ * The project server output directory
  *
  *
  *@type {Object}
  */
 const outDir = {
   type: "input",
-  message: "The project output directory (dist):",
+  message: "The project output directory for your server (dist):",
   name: "outDir",
 };
 
@@ -110,7 +151,10 @@ const services = {
     {
       name: "Github actions",
       value: "github-actions",
-    },
+    },{
+      name: "Jenkins",
+      value: "jenkins",
+    }
   ],
   name: "services",
 };
